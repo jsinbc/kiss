@@ -1291,8 +1291,9 @@ a.box:active {
 .button.is-link {
   background-color: transparent;
   border-color: transparent;
-  color: #42464c;
-  text-decoration: underline;
+  color: #0198E1;
+  text-decoration: none;
+  font-style:italic;
 }
 
 .button.is-link:focus,
@@ -2528,7 +2529,7 @@ a.box:active {
 
 .title.is-3 code,
 .title.is-4 {
-  font-size: 24px;
+  font-size: 28px;
 }
 
 .title.is-4 code,
@@ -6451,7 +6452,7 @@ html {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 640px;
   margin: 0 auto;
 }
 
@@ -6501,7 +6502,7 @@ article+article {
 }
 
 .title {
-  font-size: 24px;
+  font-size: 21px;
 }
 
 .title a {
