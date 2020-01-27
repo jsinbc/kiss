@@ -331,7 +331,7 @@ button,
 input,
 select,
 textarea {
-  font-family: arial, sans-serif;
+  font-family: Times New Roman,serif;
 }
 
 code,
@@ -343,7 +343,6 @@ pre {
 }
 
 body {
-  color: #42464c;
   font-size: 1rem;
   line-height: 1.428571428571429;
 }
@@ -806,7 +805,7 @@ a.box:active {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  font-size: 14px;
+  font-size: 1.2rem;
   height: 32px;
   line-height: 24px;
   position: relative;
@@ -1368,7 +1367,6 @@ a.box:active {
 }
 
 .content p {
-  text-align: justify;
 }
 
 .content blockquote:not(:last-child),
@@ -2496,6 +2494,7 @@ a.box:active {
 
 .title {
   color: #222324;
+  margin-bottom:.6rem !important;
 }
 
 .title code {
@@ -2528,7 +2527,7 @@ a.box:active {
 
 .title.is-3 code,
 .title.is-4 {
-  font-size: 28px;
+  font-size: 2.7rem;
 }
 
 .title.is-4 code,
@@ -6466,8 +6465,8 @@ article+article {
 }
 
 .content {
-  font-size: 16px;
-  line-height: 1.75;
+  font-size: 1.35rem;
+  line-height: 1.5;
 }
 
 .media-content .subtitle+.title {
@@ -6501,11 +6500,11 @@ article+article {
 }
 
 .title {
-  font-size: 21px;
+  font-size: 1.6rem;
 }
 
 .title a {
-  color: #222324;
+  color: #ff0000;
 }
 
 .title.notfound {
