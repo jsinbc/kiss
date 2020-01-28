@@ -1367,7 +1367,7 @@ a.box:active {
 }
 
 .content p {
-  font-size:1.33rem;
+  font-size:1.4rem;
 }
 
 .content blockquote:not(:last-child),
@@ -6466,7 +6466,7 @@ article+article {
 }
 
 .content {
-  font-size: 1.33rem;
+  font-size: 1.4rem;
   line-height: 1.5;
 }
 
@@ -6501,7 +6501,7 @@ article+article {
 }
 
 .title {
-  font-size: 1.6rem;
+  font-size: 1.65rem;
 }
 .title-single {
   font-size: 1.9rem;
