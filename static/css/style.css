@@ -1367,6 +1367,7 @@ a.box:active {
 }
 
 .content p {
+  font-size:1.3rem;
 }
 
 .content blockquote:not(:last-child),
@@ -6465,7 +6466,7 @@ article+article {
 }
 
 .content {
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   line-height: 1.5;
 }
 
