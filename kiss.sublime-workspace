@@ -1,0 +1,550 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"form-type-te",
+				"form-type-textfield"
+			],
+			[
+				"header",
+				"header-color"
+			],
+			[
+				"views-f",
+				"views-field-title"
+			],
+			[
+				"si",
+				"sidebar_first"
+			],
+			[
+				"light",
+				"light-grey"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"img",
+				"img_path"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"path",
+				"path_to_theme"
+			],
+			[
+				"dar",
+				"dark-grey"
+			],
+			[
+				"dark",
+				"dark-green"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ligh",
+				"light-grey"
+			],
+			[
+				"pager-",
+				"pager-next"
+			],
+			[
+				"lig",
+				"light-green"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"al",
+				"almost_white"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"strip",
+				"stripslashes"
+			],
+			[
+				"the",
+				"the_page"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"meta",
+				"meta-gray"
+			],
+			[
+				"li",
+				"light-gray"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"cla",
+				"class=  (attribute)"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"preab",
+				"preamble-title"
+			],
+			[
+				"zen-g",
+				"zen-gutter-width"
+			],
+			[
+				"zen",
+				"zen-grid-item"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"f",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"op",
+				"Gist: Open Gist"
+			],
+			[
+				"ope",
+				"Gist: Open Gist"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"gi",
+				"Gist: Add File to Gist"
+			],
+			[
+				"gis",
+				"Gist: Create Private Gist"
+			],
+			[
+				"mar",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/home/stoneground/themes/kiss"
+	],
+	"file_history":
+	[
+		"/Users/home/stoneground/config.toml",
+		"/Users/home/stoneground/themes/hugo-notepadium/assets/css/custom.css",
+		"/Users/home/stoneground/themes/hugo-notepadium/layouts/partials/footer.html",
+		"/Users/home/stoneground/public/tags/page/1/index.html",
+		"/Users/home/stoneground/public/page/1/index.html",
+		"/Users/home/stoneground/themes/hugo-notepadium/layouts/partials/article-header.html",
+		"/Users/home/stoneground/themes/hugo-notepadium/i18n/zh.toml",
+		"/Users/home/stoneground/themes/hugo-notepadium/i18n/en.toml",
+		"/Users/home/stoneground/themes/hugo-notepadium/theme.toml",
+		"/Users/home/stoneground/themes/hugo-notepadium/archetypes/default.md",
+		"/Users/home/stoneground/themes/hugo-notepadium/layouts/shortcodes/raw.html",
+		"/Users/home/stoneground/themes/hugo-notepadium/layouts/partials/navigation-items.html",
+		"/Users/home/stoneground/themes/hugo-notepadium/layouts/partials/article-labels.html",
+		"/Users/home/stoneground/themes/hugo-notepadium/layouts/_default/single.html",
+		"/Users/home/stoneground/themes/kiss/static/css/style.css",
+		"/Users/home/stoneground/themes/kiss/layouts/_default/single.html",
+		"/Users/home/stoneground/themes/kiss/layouts/_default/list.html",
+		"/Users/home/stoneground/themes/kiss/layouts/index.html",
+		"/Users/home/stoneground/themes/kiss/layouts/partials/header.html",
+		"/Users/home/stoneground/layouts/rss.xml",
+		"/Users/home/stoneground/public/css/style.css",
+		"/Users/home/stoneground/themes/kiss/layouts/partials/footer.html",
+		"/Users/home/stoneground/themes/kiss/exampleSite/config.toml",
+		"/Users/home/stoneground/public/css/custom.css",
+		"/Users/home/stoneground/themes/hugo-notepadium/assets/css/style.css",
+		"/Users/home/stoneground/themes/hugo-notepadium/exampleSite/config.toml",
+		"/Users/home/Documents/stoneground/config.toml",
+		"/Users/home/stoneground/themes/kiss/layouts/partials/data/title",
+		"/Users/home/stoneground/themes/kiss/layouts/partials/pager.html",
+		"/Users/home/stoneground/themes/kiss2/static/css/custom.css",
+		"/Users/home/stoneground/themes/kiss2/static/css/style.css",
+		"/Users/home/stoneground/themes/kiss2/layouts/partials/header.html",
+		"/Users/home/stoneground/content/posts/no-free-lunch.md",
+		"/Users/home/stoneground/content/posts/no-free-lunch",
+		"/Users/home/stoneground/content/posts/corporate-responsibility.md",
+		"/Users/home/stoneground/themes/kiss/archetypes/default.md",
+		"/Users/home/stoneground/config2.toml",
+		"/Users/home/stoneground/public/index.html",
+		"/Users/home/stoneground/themes/hugo-cactus-theme/layouts/index.html",
+		"/Users/home/stoneground/themes/hugo-cactus-theme/layouts/partials/post-list.html",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/stoneground/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/stoneground/footer.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/stoneground/single.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/stoneground/template-parts/content.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/stoneground/inc/template-functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/stoneground/inc/template-tags.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/stoneground/functions.php",
+		"/Users/home/Documents/stoneground/theme/stoneground/style.css",
+		"/Users/home/Documents/stoneground/theme/wp-bootstrap-starter/inc/template-tags.php",
+		"/Users/home/Documents/stoneground/theme/wp-bootstrap-starter/fullwidth.php",
+		"/Users/home/Documents/stoneground/theme/wp-bootstrap-starter/functions.php",
+		"/Users/home/Documents/stoneground/theme/wp-bootstrap-starter/template-parts/content.php",
+		"/Users/home/Documents/stoneground/theme/wp-bootstrap-starter/template-parts/content-page.php",
+		"/Users/home/Documents/stoneground/theme/wp-bootstrap-starter/single.php",
+		"/Users/home/Documents/stoneground/theme/stoneground/header.php",
+		"/Users/home/Downloads/wp-bootstrap-starter/header.php",
+		"/Users/home/Documents/stoneground/server/error_log",
+		"/Users/home/Documents/stoneground/server/.htaccess",
+		"/Users/home/Documents/stoneground/theme/wp-bootstrap-starter/index.php",
+		"/Users/home/Documents/stoneground/theme/wp-bootstrap-starter/page.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/stoneground/header.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/wp-bootstrap-starter/header.php",
+		"/Users/home/Downloads/unzipper-master/unzipper.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/wp-bootstrap-starter/inc/assets/css/fontawesome.min.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/wp-bootstrap-starter/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/material-design-wp/header.php",
+		"/Applications/MAMP/htdocs/grav/logs/grav.log",
+		"/Users/home/Downloads/barthelme.tmpl",
+		"/Users/home/Downloads/tmpl.v1",
+		"/Users/home/Downloads/pmwiki.tmpl",
+		"/private/var/folders/q6/12n72cn90hjf0mswg45kcj100000gq/T/fz3temp-2/grav.log",
+		"/Users/home/Downloads/skin.tmpl",
+		"/Users/home/Downloads/cpanel_backup.php",
+		"/Users/home/Documents/htdocs_original/cms/displayfncs.php",
+		"/Users/home/Documents/htdocs_original/cms/index.php",
+		"/Users/home/Documents/htdocs_original/cms/displayfncs_onsite.php",
+		"/Users/home/Documents/htdocs_original/cms/menu.htm",
+		"/Users/home/Documents/htdocs_original/cms/admin/webmaster/index.php",
+		"/Users/home/Documents/stoneground/envira-gallery-sort-uploaded.php",
+		"/Users/home/Documents/code/p5/empty-example/sketch.js",
+		"/Users/home/Documents/code/p5/empty-example/index.html",
+		"/Users/home/Downloads/p_slides-master/themes/zhaw/zhaw.css",
+		"/Users/home/Documents/code/ejscript/fizzbuzz.js",
+		"/Users/home/Documents/code/ejscript/triangle.js",
+		"/Users/home/Documents/code/tfnbtf/manifest.json",
+		"/Users/home/Documents/code/tfnbtf/options.js",
+		"/Users/home/Documents/code/tfnbtf/background.js",
+		"/Users/home/Documents/code/tfnbtf/options.html",
+		"/Applications/MAMP/htdocs/stroneground/wp-content/themes/penscratch/header.php",
+		"/Applications/MAMP/htdocs/stroneground/wp-content/themes/penscratch/style.css",
+		"/Users/home/Documents/python/personal/ParseHistory.py",
+		"/Users/home/Documents/stories/GettingBy/includes/head.txt",
+		"/Users/home/Desktop/uploads/blog/input.txt",
+		"/Users/home/Desktop/uploads/blog/test2.md",
+		"/Users/home/Library/Application Support/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/Users/home/Desktop/uploads/blog/Greenhouse gases 101.md",
+		"/Users/home/Documents/stories/GettingBy/web/Untitled/Answer the door.html",
+		"/Users/home/Documents/stories/GettingBy/web/Answer the door.html",
+		"/Users/home/Documents/stories/GettingBy/GettingBy.html",
+		"/Users/home/Documents/stories/GettingBy/Getting by.html",
+		"/Users/home/Documents/Twine/Stories/gettingby.opml",
+		"/Users/home/Documents/Twine/Stories/Getting by.html",
+		"/Users/home/Desktop/uploads/blog/Getting by.html",
+		"/Users/home/Documents/stories/Getting by.html",
+		"/Applications/MAMP/htdocs/ree/Index.html",
+		"/Applications/MAMP/htdocs/ree/style.css",
+		"/Applications/MAMP/htdocs/stroneground/wp-admin/css/themes.css",
+		"/Users/home/Documents/websites/nwjb/danland/local.css",
+		"/Users/home/Documents/websites/nwjb/corporate clean/corporateclean.info",
+		"/Users/home/Documents/websites/nwjb/corporate clean/local.css",
+		"/Applications/MAMP/htdocs/stroneground/wp-admin/css/common.css",
+		"/Users/home/Documents/websites/nwjb/danland/danland.info",
+		"/Users/home/Documents/websites/nwjb/danland/page.tpl.php",
+		"/Users/home/Downloads/settings.php",
+		"/Applications/MAMP/htdocs/skeenandp/sites/all/themes/bootstrap_business/color/colors.css",
+		"/Applications/MAMP/htdocs/skeenandp/sites/all/themes/bootstrap_business/page.tpl.php",
+		"/Applications/MAMP/htdocs/skeenandp/sites/all/themes/bootstrap_business/css/style.css",
+		"/Applications/MAMP/htdocs/skeenandp/sites/all/themes/bootstrap_business/bootstrap_business.info",
+		"/Applications/MAMP/htdocs/skeenandp/sites/all/themes/bootstrap_business/template.php",
+		"/Applications/MAMP/htdocs/skeenandp/sites/all/themes/bootstrap_business/css/local.css",
+		"/Applications/MAMP/htdocs/skeenandp/sites/all/themes/bootstrap_business/color/color.inc",
+		"/Applications/MAMP/htdocs/skeenandp/sites/all/themes/nexus/style.css",
+		"/Applications/MAMP/htdocs/stroneground/wp-content/themes/penscratch/content-page.php",
+		"/Applications/MAMP/htdocs/stroneground/wp-content/themes/penscratch/single.php",
+		"/Applications/MAMP/htdocs/stroneground/wp-content/themes/penscratch/content-single.php",
+		"/Applications/MAMP/htdocs/skeenandp/sites/default/settings.php",
+		"/Applications/MAMP/htdocs/skeenandp/sites/all/themes/corporateclean/color/colors.css",
+		"/Applications/MAMP/htdocs/skeenandp/sites/all/themes/corporateclean/style.css"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+	"project": "kiss.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
